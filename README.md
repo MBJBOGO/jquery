@@ -1,6 +1,8 @@
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
+MBJ: My own version
+
 Contribution Guides
 --------------------------------------
 
